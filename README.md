@@ -1,4 +1,5 @@
 # Movie Recommender System
 
 A content based movie recommender system using cosine similarity and here I was used tmdb dataset.
-![](https://github.com/Amourya03/movie_recommender_system/assets/109551962/713b9d43-efee-4eaa-88d0-1e58fd57aa7a)
+ 
+![movie_recom_system](https://github.com/Amourya03/movie_recommender_system/assets/109551962/6298428a-fc2e-45a9-b97f-2daed43a80c0)
